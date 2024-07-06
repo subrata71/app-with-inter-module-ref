@@ -1,6 +1,6 @@
 {
-  "moduleName": "JSModule2",
-  "moduleUUID": "956e1ccb-3b0a-42c5-a0bb-cd55fe0eede6",
+  "moduleName": "NormalJSModule",
+  "moduleUUID": "bdcd03f8-e138-47c9-a22a-20029ac58206",
   "packageName": "InterModuleRef Pkg",
   "packageUUID": "6b5e28ec-a169-45eb-a5f5-03a0e662ca3b",
   "version": "0.0.4"
